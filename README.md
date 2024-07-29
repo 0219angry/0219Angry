@@ -1,5 +1,8 @@
-## Hi there 👋
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0219Angry&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=0219Angry&show_icons=ture" />
+</p>
 <!--
 **0219angry/0219Angry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
